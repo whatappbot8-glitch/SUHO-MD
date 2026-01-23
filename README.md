@@ -1,97 +1,76 @@
 <p align="center">
-  <img src="https://files.catbox.moe/52358v.jpg" alt="SUHO-MD Banner" width="100%"/>
+  <img src="https://files.catbox.moe/52358v.jpg" alt="SUHO-MD Banner" width="100%">
 </p>
 
 <h1 align="center">⚡ SUHO-MD ⚡</h1>
 
 <p align="center">
-  <b>A next-generation WhatsApp Multi-Device bot</b><br>
-  Power • Speed • Style
+  <b>A powerful, modern, and customizable WhatsApp Multi-Device bot</b><br>
+  Built for speed, style, and full control.
 </p>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/fork">
-    <img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/FORK%20REPO-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version-v2.0-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Engine-Baileys-111?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social"/>
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=social"/>
-  <img src="https://img.shields.io/github/watchers/YOUR_USERNAME/YOUR_REPO?style=social"/>
+  <a href="https://session-link-d84fdd10.base44.app">
+    <img src="https://img.shields.io/badge/GET%20SESSION%20ID-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 What is SUHO-MD?
 
-**SUHO-MD** is a futuristic WhatsApp Multi-Device bot built to dominate automation, media handling, and user interaction.
+**SUHO-MD** is a next-generation WhatsApp bot built on **Baileys MD**, designed to be:
 
-Designed with:
-- modular plugins  
-- stylish menus  
-- fast responses  
-- real control  
-
-> *Not cloned. Not recycled. Built with intent.*
+- ⚡ Fast & lightweight  
+- 🎨 Stylish menus & dashboards  
+- 🧠 Smart economy system  
+- 👑 Owner & moderator controls  
+- 🧩 Plugin-based & expandable  
 
 ---
 
-## ✨ Core Features
+## 🔐 Get Session ID (Required)
 
-⚙️ **Advanced Command Handler**  
-💰 **Economy System** (wallet, gamble, daily, work, slots)  
-📥 **Media Downloaders** (TikTok, YouTube & more)  
-🛡️ **Admin & Owner Tools**    
-📊 **Live Status & Dashboard-Style Commands**  
-🎨 **Original Menus that scream SUHO**
+Before running the bot, you must generate a **Session ID**.
 
----
-
-## 🧠 Why SUHO-MD Is Different
-
-- No boring copy-paste menus  
-- No messy command spam  
-- No weak structure  
-
-Every command, menu, and system is designed to feel **premium**, **clean**, and **powerful**.
-
-SUHO-MD isn’t just a bot — it’s a framework.
-
----
-
-## 👑 Credits & Appreciation
-
-Massive respect to the people behind the scenes:
-
-- **👑 Malvin King** — for helping with bot plugins and logic  
-- **💠 The Dev Family** — for constant support, testing, and motivation  
-
-Real ones 🤍
-
----
-
-## 📬 Contact & Support
-
-Want to collaborate, report bugs, or just talk dev?
-
-- 📧 **Email:** altzzsung@gmail.com  
-- 📸 **Instagram:** [@tbh_itsryan](https://www.instagram.com/tbh_itsryan?igsh=N2JhNmg3cjBjcmY1)
-
----
-
-## ⚠️ Disclaimer
-
-This project is for **educational and personal use only**.  
-The developer takes **no responsibility** for misuse or policy violations.
-
-Use wisely.
-
----
-
+### 👉 Click below:
 <p align="center">
-  <b>⚡ SUHO-MD — Built Different. Runs Different. ⚡</b>
+  <a href="https://session-link-d84fdd10.base44.app">
+    <img src="https://img.shields.io/badge/GENERATE%20SESSION%20ID-CLICK%20HERE-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=green"/>
+  </a>
 </p>
+
+### 🪜 Steps
+1. Open the link  
+2. request pair code and put it in WhatsApp 
+3. Copy your **Session ID**  
+4. Paste it into your config / env  
+5. Start the bot 🚀  
+
+> ⚠️ **Never share your session ID** — it gives full access to your WhatsApp.
+
+---
+
+## 📦 Features
+
+- 📥 Downloaders (TikTok, YouTube, Facebook, Xvideos, etc.)
+- 💰 Economy (wallet, daily, gamble, slots, send, work)
+- 🤖 AI & image tools
+- 🌸 Anime & media converters
+- 👥 Group management
+- 🧾 Stylish menu system
+- 🛡️ Owner & moderator system
+- 🐞 Bug reporting command
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO
+cd SUHO-MD
+npm install
+npm start
