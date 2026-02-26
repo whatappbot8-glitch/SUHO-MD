@@ -8,8 +8,8 @@ function convertToBool(text, fault = "true") {
 
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || "",
-  OWNER_NUM: process.env.OWNER_NUM || "27649342626",
-  OWNER_NAME: process.env.OWNER_NAME || "Lord Sung",
+  OWNER_NUM: process.env.OWNER_NUM || "2347048458575",
+  OWNER_NAME: process.env.OWNER_NAME || "STORM",
   REPO: process.env.REPO || "https://github.com/altzzdevs/SUHO-MD", 
   PREFIX: process.env.PREFIX || ".",
   AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
